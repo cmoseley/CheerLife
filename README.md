@@ -1,3 +1,3 @@
 CheerLife
 =========
-Christina Moseley Cheerleading Web App
+Website for basic to advanced Cheerleading information
